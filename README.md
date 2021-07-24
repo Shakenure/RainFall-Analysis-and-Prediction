@@ -4,20 +4,17 @@ Rainfall analysis and prediction shows rainfall analysis across 35 subdivisions 
 GUI 1. Homepage
 ![alt text](./screenshots/Image10.png)
 
-GUI 1. Homepage
+GUI 2. Analysis
 ![alt text](./screenshots/Image11.png)
 
-GUI 2. Analysis
+GUI 3. Prediction
 ![alt text](./screenshots/Image12.png)
 
-GUI 3. Prediction
+GUI 4. Result
 ![alt text](./screenshots/Image13.png)
 
-GUI 4. Result
-![alt text](./screenshots/Image14.png)
-
 GUI 5. Prediction result
-![alt text](./screenshots/Image15.png)
+![alt text](./screenshots/Image14.png)
 
 Algorithm : Flowchart for model training
 ![alt text](./screenshots/Image9.png)
